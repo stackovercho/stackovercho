@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okayesu
+- 👋 Hi, I’m @stackovercho
 - 👀 I’m interested in: game programming
 - 🌱 I’m currently learning: Android w/ Kotlin
 - 💞️ I’m looking to collaborate on: websites, games, apps
