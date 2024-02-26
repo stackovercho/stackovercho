@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stackovercho
 - 👀 I’m interested in: game programming
-- 🌱 I’m currently learning: Computer and Network Security
+- 🌱 I’m currently learning: C++
 - 💞️ I’m looking to collaborate on: websites, games, apps
 - 📫 How to reach me: hyun.cho4@gmail.com
 
